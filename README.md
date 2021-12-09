@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on JDL(京东物流)
 - 🌱 I’m currently learning React & Node.js
+- 📫 My Resume: [Here](https://hacknical.com/hao951029/resume?locale=zh)
 
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
