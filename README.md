@@ -1,4 +1,4 @@
-### 👋 I'm hao（牛皓）, a FE Developer.
+### 👋 I'm hao, a FE Engineer.
 
 - 🔭 I’m currently working on JDL(京东物流)
 - 🌱 I’m currently learning React & Node.js
