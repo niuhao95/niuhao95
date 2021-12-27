@@ -1,6 +1,6 @@
 ### 👋 I'm hao, a FE Engineer.
 
-- 🔭 I’m currently working on JDL(京东物流)
+- 🔭 I’m currently working on JDL
 - 🌱 I’m currently learning React & Node.js
 - 📫 My Resume: [Here](https://hacknical.com/hao951029/resume?locale=zh)
 
