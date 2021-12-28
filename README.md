@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hao951029&count_private=true" />
 
-### 👋 I'm hao, a FE Engineer.
+### 👋 I'm hao, a Front-end Developer.
 
-- 🔭 I’m currently working on JDL
-- 🌱 I’m currently learning React & Node.js
-- 📫 My Resume: [Here](https://hacknical.com/hao951029/resume?locale=zh)
+- I’m currently working on JDL
+- I’m currently learning React & Node.js
+- My [Resume](https://hacknical.com/hao951029/resume?locale=zh)
 
 ### Languages & Tools
 
