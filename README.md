@@ -3,7 +3,6 @@
 ### 👋 I'm hao, a Front-end Developer.
 
 - I’m currently working on JDL
-- I’m currently learning React & Node.js
 - My [Resume](https://hacknical.com/niuhao95/resume?locale=zh)
 
 ### Languages & Tools
